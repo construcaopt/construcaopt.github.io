@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Cloud Dev Tips</title>
+	<atom:link href="https://construcaopt.pt/feed/" rel="self" type="application/rss+xml" />
+	<link>https://construcaopt.pt/</link>
+	<description></description>
+	<lastBuildDate>Sat, 23 Dec 2023 18:06:28 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+
+<image>
+	<url>https://construcaopt.pt/wp-content/uploads/2023/11/cropped-download-1-32x32.png</url>
+	<title>Cloud Dev Tips</title>
+	<link>https://construcaopt.pt/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Test</title>
+		<link>https://construcaopt.pt/blog/2023/12/23/test/</link>
+		
+		<dc:creator><![CDATA[wordpress_user]]></dc:creator>
+		<pubDate>Sat, 23 Dec 2023 18:06:15 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://construcaopt.pt/?p=22</guid>
+
+					<description><![CDATA[stuff]]></description>
+										<content:encoded><![CDATA[
+<p>stuff</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" src="https://construcaopt.pt/wp-content/uploads/2023/12/all-ki-logo.png" alt="" class="wp-image-24"/></figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Hello world!</title>
+		<link>https://construcaopt.pt/blog/2023/11/27/hello-world/</link>
+					<comments>https://construcaopt.pt/blog/2023/11/27/hello-world/#comments</comments>
+		
+		<dc:creator><![CDATA[wordpress_user]]></dc:creator>
+		<pubDate>Mon, 27 Nov 2023 19:45:28 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://filmesluis.dynip.sapo.pt/wordpress/?p=1</guid>
+
+					<description><![CDATA[I really like wordpress]]></description>
+										<content:encoded><![CDATA[
+<p>I really like wordpress</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://construcaopt.pt/blog/2023/11/27/hello-world/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
