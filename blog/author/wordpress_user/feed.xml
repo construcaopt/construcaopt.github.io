@@ -8,10 +8,10 @@
 	>
 
 <channel>
-	<title>wordpress_user &#8211; Cloud Dev Tips</title>
+	<title>wordpress_user, Author at Construção PT</title>
 	<atom:link href="https://construcaopt.pt/blog/author/wordpress_user/feed/" rel="self" type="application/rss+xml" />
-	<link>https://construcaopt.pt/</link>
-	<description></description>
+	<link>https://construcaopt.pt/blog/author/wordpress_user/</link>
+	<description>O que todos os construtores precisam para o seu negócio</description>
 	<lastBuildDate>Sat, 23 Dec 2023 18:06:28 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
@@ -22,8 +22,8 @@
 
 <image>
 	<url>https://construcaopt.pt/wp-content/uploads/2024/01/cropped-construcao-pt-background-32x32.png</url>
-	<title>wordpress_user &#8211; Cloud Dev Tips</title>
-	<link>https://construcaopt.pt/</link>
+	<title>wordpress_user, Author at Construção PT</title>
+	<link>https://construcaopt.pt/blog/author/wordpress_user/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
@@ -36,13 +36,16 @@
 				<category><![CDATA[Uncategorized]]></category>
 		<guid isPermaLink="false">https://construcaopt.pt/?p=22</guid>
 
-					<description><![CDATA[stuff]]></description>
+					<description><![CDATA[<p>stuff</p>
+<p>The post <a href="https://construcaopt.pt/blog/2023/12/23/test/">Test</a> appeared first on <a href="https://construcaopt.pt/">Construção PT</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p>stuff</p>
 
 
 
 <figure class="wp-block-image size-full"><img data-dominant-color="50442a" data-has-transparency="true" style="--dominant-color: #50442a;" decoding="async" src="https://construcaopt.pt/wp-content/uploads/2023/12/all-ki-logo.png" alt="" class="has-transparency wp-image-24"/></figure>
+<p>The post <a href="https://construcaopt.pt/blog/2023/12/23/test/">Test</a> appeared first on <a href="https://construcaopt.pt/">Construção PT</a>.</p>
 ]]></content:encoded>
 					
 		
@@ -58,9 +61,12 @@
 				<category><![CDATA[Uncategorized]]></category>
 		<guid isPermaLink="false">http://filmesluis.dynip.sapo.pt/wordpress/?p=1</guid>
 
-					<description><![CDATA[I really like wordpress]]></description>
+					<description><![CDATA[<p>I really like wordpress</p>
+<p>The post <a href="https://construcaopt.pt/blog/2023/11/27/hello-world/">Hello world!</a> appeared first on <a href="https://construcaopt.pt/">Construção PT</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p>I really like wordpress</p>
+<p>The post <a href="https://construcaopt.pt/blog/2023/11/27/hello-world/">Hello world!</a> appeared first on <a href="https://construcaopt.pt/">Construção PT</a>.</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://construcaopt.pt/blog/2023/11/27/hello-world/feed/</wfw:commentRss>
