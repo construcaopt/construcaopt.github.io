@@ -8,9 +8,9 @@
 	>
 
 <channel>
-	<title>Construção</title>
-	<atom:link href="https://construcaopt.pt/feed/" rel="self" type="application/rss+xml" />
-	<link>https://construcaopt.pt/</link>
+	<title>Uncategorized Archives - Construção</title>
+	<atom:link href="https://construcaopt.pt/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>https://construcaopt.pt/category/uncategorized/</link>
 	<description></description>
 	<lastBuildDate>Tue, 02 Jan 2024 11:17:20 +0000</lastBuildDate>
 	<language>pt-PT</language>

@@ -7,9 +7,9 @@
 	>
 <channel>
 	<title>
-	Comentários para Construção	</title>
-	<atom:link href="https://construcaopt.pt/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://construcaopt.pt/</link>
+	Comentários em: Hello world!	</title>
+	<atom:link href="https://construcaopt.pt/2024/01/02/hello-world/feed/" rel="self" type="application/rss+xml" />
+	<link>https://construcaopt.pt/2024/01/02/hello-world/</link>
 	<description></description>
 	<lastBuildDate>Tue, 02 Jan 2024 11:17:20 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -19,7 +19,7 @@
 	<generator>https://wordpress.org/?v=6.4.2</generator>
 	<item>
 		<title>
-		Comentário em Hello world! por A WordPress Commenter		</title>
+		Por: A WordPress Commenter		</title>
 		<link>https://construcaopt.pt/2024/01/02/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>

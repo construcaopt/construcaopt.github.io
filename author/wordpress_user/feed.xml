@@ -8,9 +8,9 @@
 	>
 
 <channel>
-	<title>Construção</title>
-	<atom:link href="https://construcaopt.pt/feed/" rel="self" type="application/rss+xml" />
-	<link>https://construcaopt.pt/</link>
+	<title>wordpress_user, Author at Construção</title>
+	<atom:link href="https://construcaopt.pt/author/wordpress_user/feed/" rel="self" type="application/rss+xml" />
+	<link>https://construcaopt.pt/author/wordpress_user/</link>
 	<description></description>
 	<lastBuildDate>Tue, 02 Jan 2024 11:17:20 +0000</lastBuildDate>
 	<language>pt-PT</language>
