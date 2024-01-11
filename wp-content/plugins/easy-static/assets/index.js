@@ -14,8 +14,8 @@ for (let item of anchorLinks) { // Loop through each link
                     block: 'start'
                 });
                 history.pushState(null, null, hashval);
+                e.preventDefault();// Change the URL hash
             }
-            e.preventDefault();// Change the URL hash
         }
     });
 }
