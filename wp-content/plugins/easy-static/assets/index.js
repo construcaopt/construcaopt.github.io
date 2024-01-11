@@ -22,3 +22,9 @@ for(let modal_button of modal_buttons){
         actual_button.click();
     });
 }
+
+//function that calls the actual_button after 10 seconds of page load
+function call_button(){
+    actual_button.click();
+}
+setTimeout(call_button,15000);
